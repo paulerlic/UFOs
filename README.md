@@ -8,7 +8,7 @@ In this challenge we are using JavaScript, HTML, and CSS to create a webpage to 
 Our webpage has a wonderful fully functional filter that allows users to input different search criteria into different fields with in the filter. The filter allows users to enter the following fields ( Date, City, State, Country, Shape of the UFO), the filter takes the users inputs and returns the data the matches the search criteria the use entered into the filter. After filling out all of the necessarey fields the user can hit enter to update the table and return the results of their search. The filter can be cleared by clicking the nav bar at the top of the page. Take a look below for a quick tutorial on how to properly use the search fitler.
 
 ## Webpage Overview
--Hello and welcome to my UFO my page. When you load the index file it should look the image below: 
+Hello and welcome to my UFO my page. When you load the index file it should look the image below: 
 ![alt text](https://raw.githubusercontent.com/paulerlic/UFOs/main/static/images/page_view.png)
 
 ## Instructions
